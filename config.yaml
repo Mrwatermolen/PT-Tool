@@ -1,0 +1,9 @@
+database: data.db
+downloader:
+  username: tran
+  password: Tranformh46
+  host: 192.168.1.8
+
+vedio_quality: 1080|(简|CHS|GB)
+media_library_path: //Kissheart/hhd-2-8t/media/Anime/Attack.on.Titan.2013/Attack.on.Titan.S04
+download_path: \\Kissheart\hhd-2-8t\transmissionDownload
